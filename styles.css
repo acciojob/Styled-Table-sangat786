@@ -1,1 +1,25 @@
 /* your code */
+#tr1{
+    padding: 50px;
+    margin: 50px;
+    color: white;
+    background-color: blue;
+    border: 3px;
+    border-radius: 10px;
+}
+#tr3, #tr5{
+    padding: 50px;
+    margin: 50px;
+     
+    background-color: aquamarine;
+    border: 3px;
+    border-radius: 10px;
+}
+#t2{
+    border: 2px solid black;
+    border-bottom: 2px solid blue;
+    margin: 30px;
+    padding: 20px;
+    padding-inline: 10px;
+    
+}
